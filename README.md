@@ -1,3 +1,11 @@
+# Cocorobi RealEstate
+
+Public project repository maintained by [Cocorobi Inc.（株式会社こころび）](https://cocorobi.co.jp/).
+
+Official website: https://cocorobi.co.jp/
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
